@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+__pycache__/
+*.pyc
+
+# Video & Media files
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.m4v
+*.flv
+*.wmv
+
+# Generated output subtitles & temp files
+*.srt
+*.srt.tmp
+*.md
+
+# OS store files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+faster-whisper>=1.0.0
+ctranslate2>=4.0.0
+av>=11.0.0
+onnxruntime>=1.14.0
+huggingface_hub>=0.13.0
+nvidia-cublas-cu12; sys_platform == 'win32'
+nvidia-cudnn-cu12; sys_platform == 'win32'
+nvidia-cuda-nvrtc-cu12; sys_platform == 'win32'
