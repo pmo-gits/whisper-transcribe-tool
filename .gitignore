@@ -19,6 +19,7 @@ __pycache__/
 *.srt
 *.srt.tmp
 *.md
+!README.md
 
 # OS store files
 .DS_Store
